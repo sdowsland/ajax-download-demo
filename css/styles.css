@@ -1,0 +1,31 @@
+.pbar {
+  width: 200px;
+  height: 10px;
+  background-color: #ddd;
+  padding: 0;
+}
+
+.pbar .progress {
+  display: inline-block;
+  background-color: #3d3;
+  height: 100%;
+  width: 0%;
+}
+
+#imglist {
+  list-style: none;
+  padding: 0;
+}
+
+#imglist li{
+  margin: 0 5px 10px;
+  color: blue;
+}
+
+#imglist li:hover{
+cursor: pointer;
+}
+
+body {
+  padding-top: 80px;
+}

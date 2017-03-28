@@ -1,0 +1,19 @@
+{
+  "name": "ajax-download-demo",
+  "homepage": "https://github.com/sdowsland/ajax-download-demo",
+  "authors": [
+    "s.dowsland <s.dowsland@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
